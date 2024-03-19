@@ -10,11 +10,11 @@ I'm currently focused on enhancing my skills in Spring and Springboot Frameworks
 
 ## 📫 How to Reach Me
 
-My email : oishik.official2002@gmail.com  
+Email me @ oishik.official2002@gmail.com  
 
 [My LinkedIn Profile](https://www.linkedin.com/in/oishik-bandyopadhyay/)
 
 
-## 🤝 Let's Connect
+## 🤝🤝 Let's Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/oishik-bandyopadhyay/) to start a conversation! I'm always open to new opportunities and collaborations.
