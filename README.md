@@ -1,4 +1,4 @@
-# Welcome to [Oishik]'s GitHub Profile! 👋
+# Welcome to *Oishik's* GitHub Profile! 👋
 
 ## About Me
 
@@ -10,22 +10,11 @@ I'm currently focused on enhancing my skills in [Spring and Springboot Framework
 
 ## 📫 How to Reach Me
 
-- Email: [oishik1907@gmail.com](oishik1907@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oishik-bandyopadhyay/)
+[My email](oishik1907@gmail.com)
+[My LinkedIn Profile](https://www.linkedin.com/in/oishik-bandyopadhyay/)
 
-## ⚡ Fun Fact
 
-[Interesting Fact about Yourself]
-
-## 🌟 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-## 🚀 My Latest Blog Posts
-
-- [Blog Post 1](https://yourblog.com/post-1)
-- [Blog Post 2](https://yourblog.com/post-2)
 
 ## 🤝 Let's Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourtwitterhandle) to start a conversation! I'm always open to new opportunities and collaborations.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/oishik-bandyopadhyay/) to start a conversation! I'm always open to new opportunities and collaborations.
