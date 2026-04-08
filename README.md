@@ -2,11 +2,11 @@
 
 ## About Me
 
-**Hi, I am Oishik Bandyopadhyay, a passionate coder with a keen interest in engineering GenAI systems and learning new technologies. With a background in AI software development, I bring a unique perspective to every project I undertake.**
+**Hi, I am Oishik Bandyopadhyay, a passionate coder with a keen interest in engineering GenAI systems for Healthcare domain and learning new technologies. With a background in AI software development, I bring a unique perspective to every project I undertake.**
 
 ## 🌱 What I'm Currently Learning
 
-I am currently focused on learning and building Generative AI and Agentic AI systems
+I am currently focused on integrating Generative AI and Agentic AI systems in Healthcare Tech.
 
 ## 📫 How to Reach Me
 
